@@ -22,7 +22,7 @@ for i in range(3):
 # fibonacci challenge - calculate to at least the 20th term based on any two starting values
 
 
-print("This is the beginnig of the fibonacci challenge code")
+print("This is the beginning of the fibonacci challenge code")
 a = 2
 print(a)
 b = 5
